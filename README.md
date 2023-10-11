@@ -29,12 +29,14 @@ I am Python Web Developer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230064a5?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%20%23F1502F?style=for-the-badge&logo=git&logoColor=%233E2C00)
+![Redis](https://img.shields.io/badge/Redis-%23D82C20?style=for-the-badge&logo=redis&logoColor=%237A0C00)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ALDeig&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALDeig&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALDeig&theme=vision-friendly-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ALDeig/ALDeig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
